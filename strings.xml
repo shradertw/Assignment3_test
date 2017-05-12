@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="button_timer">Timer</string>
+    <string name="button_alarm">Alarm</string>
+    <string name="button_camera">Camera</string>
+    <string name="button_submit">Submit</string>
+    <string name="text_hours">Hours:</string>
+    <string name="text_minutes">Minutes:</string>
+    <string name="text_seconds">Seconds:</string>
+    <string name="text_time">Time:</string>
+    <string name="text_name">Name:</string>
+</resources>
